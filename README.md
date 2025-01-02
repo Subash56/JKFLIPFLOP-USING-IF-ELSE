@@ -1,6 +1,6 @@
 ### NAME: SUBASH B
 ### REG NO: 24900843
-# EXP NO 5: JKFLIPFLOP-USING-IF-ELSE
+# EXP NO 5: IMPLEMENTATION OF JKFLIPFLOP USING IF ELSE
 
 # AIM:
 
@@ -9,8 +9,6 @@ To implement  JK flipflop using verilog and validating their functionality using
 # SOFTWARE REQUIRED:
 
 Quartus prime
-
-# THEORY
 
 # JK Flip-Flop
 
